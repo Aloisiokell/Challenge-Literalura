@@ -34,6 +34,7 @@ O projeto foi elaborado com foco em boas práticas de desenvolvimento, organiza�
 - 🌟 CRUD LIVROS
 - 🌟 GERENCIAMENTO DADOS DTOS
 - 🌟 JPA
+- 🌟 MYSQL
 
 ## 🌟 IDES/ OUTRAS APLIACAÇÕES NECESSÁRIAS 🌟
 - MAVEN
